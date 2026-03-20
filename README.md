@@ -4,7 +4,13 @@ Sistema de cadastro de pets desenvolvido com Java e Spring Boot, conectado ao Mo
 
  Projeto desenvolvido como desafio prático de estudo criado por Lucas Carrilho - [@devmagro](https://www.linkedin.com/in/karilho/), aplicando conceitos de Orientação a Objetos, arquitetura em camadas e boas práticas de desenvolvimento.
 
+ YouTube: [@devmagro](https://www.youtube.com/@devmagro) 🎥
+
+ Desafio: [Link do README](https://github.com/karilho/desafioCadastro)
+
 ---
+
+
 
 ## 🚀 Tecnologias utilizadas
 
