@@ -65,7 +65,7 @@ No arquivo `src/main/resources/application.yml`, configure sua conexão com o Mo
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/desafio-cadastro
+      uri: mongodb://localhost:27017/petsdb
 ```
 
 ### Executando
