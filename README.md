@@ -104,9 +104,9 @@ A aplicação estará disponível em `http://localhost:8080`.
   "name": "Nala",
   "age": 5.0,
   "weight": 12.5,
-  "race": "Pitbull",
+  "race": "Maltez",
   "type": "CACHORRO",
-  "sex": "MACHO",
+  "sex": "FEMEA",
   "address": {
     "street": "Rua Ribeiro de Almeida",
     "number": "11",
